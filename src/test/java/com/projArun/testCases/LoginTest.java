@@ -24,19 +24,13 @@ public class LoginTest extends TestBase {
 //			}
 //		});
 		driver.findElement(By.xpath(OR.getProperty("from_xpath"))).click();
-		
-		WebElement s=driver.findElement(By.xpath("//div[contains(@id,'originStation1')]"));
-		WebElement t=driver.findElement(By.xpath(OR.getProperty("from_xpath")));
-				
-		//we.click();
+		WebElement s = driver.findElement(By.xpath("//div[contains(@id,'originStation1')]"));
+		WebElement t = driver.findElement(By.xpath(OR.getProperty("from_xpath")));
+		// we.click();
 		clickEnabled(s, t);
-		
 		log.debug("from city clicked");
-
 		String frmCty = OR.getProperty("fromCity_xpath") + "'" + fromCity + "'])";
 		System.out.println(frmCty);
-		
-
 		driver.findElement(By.xpath(frmCty)).click();
 		log.debug("from city entered");
 		// Thread.sleep(3000);
@@ -48,24 +42,18 @@ public class LoginTest extends TestBase {
 	@DataProvider(name = "fromCityData")
 	public Object[][] dataCity() {
 		return new Object[][] { { "Ahmedabad (AMD)" }, { "Amritsar (ATQ)" } };
-
 	}
 
 	@Test(dataProvider = "toCityData")
 	public void entertoCity(String toCity) throws IOException, InterruptedException {
-
 		driver.findElement(By.xpath(OR.getProperty("to_xpath"))).click();
 		log.info("To city clicked");
-
 		String toCty = "(" + OR.getProperty("toCity_xpath") + "'" + toCity + "'])[2]";
 		System.out.println(toCty);
-
 		driver.findElement(By.xpath(toCty)).click();
 		// driver.findElement(By.xpath(OR.getProperty("to_xpath"))).sendKeys(Keys.TAB);
-
 		log.info("To city entered");
 		Thread.sleep(3000);
-
 	}
 
 	@DataProvider(name = "toCityData")
