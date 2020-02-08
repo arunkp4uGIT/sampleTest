@@ -1,0 +1,695 @@
+[DEBUG] 2019-12-22 17:50:20.772 [main] TestBase - Config file loaded
+[DEBUG] 2019-12-22 17:50:20.866 [main] TestBase - OR file loaded
+[INFO ] 2019-12-22 17:50:20.866 [main] TestBase - info:OR file loaded
+[DEBUG] 2019-12-22 17:50:38.903 [main] TestBase - from clicked
+[DEBUG] 2019-12-22 17:51:42.694 [main] TestBase - Config file loaded
+[DEBUG] 2019-12-22 17:51:42.709 [main] TestBase - OR file loaded
+[INFO ] 2019-12-22 17:51:42.709 [main] TestBase - info:OR file loaded
+[DEBUG] 2019-12-22 17:51:58.112 [main] TestBase - from clicked
+[DEBUG] 2019-12-22 18:07:51.878 [main] TestBase - Config file loaded
+[DEBUG] 2019-12-22 18:07:51.878 [main] TestBase - OR file loaded
+[INFO ] 2019-12-22 18:07:51.878 [main] TestBase - info:OR file loaded
+[DEBUG] 2019-12-22 18:08:14.817 [main] TestBase - from clicked
+[DEBUG] 2019-12-22 18:09:50.906 [main] TestBase - Config file loaded
+[DEBUG] 2019-12-22 18:09:50.906 [main] TestBase - OR file loaded
+[INFO ] 2019-12-22 18:09:50.906 [main] TestBase - info:OR file loaded
+[DEBUG] 2019-12-22 18:10:06.707 [main] TestBase - from clicked
+[DEBUG] 2019-12-22 22:11:01.143 [main] TestBase - Config file loaded
+[DEBUG] 2019-12-22 22:11:01.206 [main] TestBase - OR file loaded
+[INFO ] 2019-12-22 22:11:01.206 [main] TestBase - info:OR file loaded
+[DEBUG] 2019-12-22 22:11:34.050 [main] TestBase - from clicked
+[DEBUG] 2020-01-04 10:07:41.003 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-04 10:07:41.425 [main] TestBase - OR file loaded
+[INFO ] 2020-01-04 10:07:41.425 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-04 10:08:17.631 [main] TestBase - from clicked
+[DEBUG] 2020-01-04 22:33:00.730 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-04 22:33:01.730 [main] TestBase - OR file loaded
+[INFO ] 2020-01-04 22:33:01.730 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-04 22:39:17.927 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-04 22:39:17.933 [main] TestBase - OR file loaded
+[INFO ] 2020-01-04 22:39:17.933 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-04 22:39:55.709 [main] TestBase - from clicked
+[DEBUG] 2020-01-04 22:47:28.773 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-04 22:47:28.773 [main] TestBase - OR file loaded
+[INFO ] 2020-01-04 22:47:28.783 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-04 22:48:24.145 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 15:27:41.517 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 15:27:41.552 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 15:27:41.552 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 15:28:23.220 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 15:28:23.722 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 15:37:42.558 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 15:37:42.558 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 15:37:42.558 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 15:38:00.197 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 15:38:00.491 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 19:53:42.531 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 19:53:42.577 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 19:53:42.577 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 19:54:04.796 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 19:55:17.451 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 19:55:17.467 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 19:55:17.467 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 19:55:32.362 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 19:55:33.007 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 20:12:35.976 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 20:12:35.985 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 20:12:35.986 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 20:13:12.153 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 20:15:08.793 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 20:15:08.803 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 20:15:08.803 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 20:15:29.976 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 20:15:34.793 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 20:17:55.380 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 20:17:55.380 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 20:17:55.380 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 20:18:09.900 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 20:18:14.636 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 20:19:08.484 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 20:19:08.484 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 20:19:08.484 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 20:19:21.971 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 20:19:30.687 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:24:17.913 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 22:24:18.007 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 22:24:18.007 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 22:24:43.274 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:24:51.997 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:27:19.208 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 22:27:19.208 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 22:27:19.208 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 22:27:36.416 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:27:48.740 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:29:52.873 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 22:29:52.873 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 22:29:52.873 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 22:30:11.220 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:30:24.472 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:43:56.872 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 22:43:56.887 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 22:43:56.887 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 22:44:24.930 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:44:37.477 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:48:18.104 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 22:48:18.135 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 22:48:18.135 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 22:48:45.990 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:48:58.089 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:53:58.489 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 22:53:58.489 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 22:53:58.489 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 22:54:19.130 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 22:54:32.056 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 23:18:54.689 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 23:18:54.705 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 23:18:54.705 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 23:19:30.026 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 23:19:43.026 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 23:23:01.205 [main] TestBase - to clicked
+[DEBUG] 2020-01-05 23:23:05.238 [main] TestBase - to clicked
+[DEBUG] 2020-01-05 23:23:05.247 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-05 23:23:05.248 [main] TestBase - OR file loaded
+[INFO ] 2020-01-05 23:23:05.248 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-05 23:23:23.281 [main] TestBase - from clicked
+[DEBUG] 2020-01-05 23:23:35.528 [main] TestBase - from clicked
+[DEBUG] 2020-01-15 18:55:03.108 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 18:55:07.209 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 18:55:07.359 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 18:55:07.379 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 18:55:07.379 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 18:55:49.504 [main] TestBase - from clicked
+[DEBUG] 2020-01-15 18:56:02.278 [main] TestBase - from clicked
+[DEBUG] 2020-01-15 19:02:24.482 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 19:02:24.505 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 19:02:24.521 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:02:24.521 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:02:24.521 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:02:45.319 [main] TestBase - from clicked
+[DEBUG] 2020-01-15 19:02:50.846 [main] TestBase - from clicked
+[DEBUG] 2020-01-15 19:09:31.938 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 19:09:31.956 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 19:09:31.988 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:09:31.988 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:09:31.988 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:09:52.154 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:09:52.762 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:09:53.090 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:09:57.636 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:09:58.177 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:09:58.505 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:11:19.247 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:11:19.263 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:11:19.263 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:11:50.373 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:11:51.004 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:11:51.364 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:11:55.879 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:11:56.459 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:11:56.834 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:11:56.865 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 19:11:57.287 [main] TestBase - to clicked
+[DEBUG] 2020-01-15 19:15:29.619 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:15:29.627 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:15:29.627 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:15:46.161 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:15:46.550 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:15:46.878 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:15:51.644 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:15:52.015 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:15:52.312 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:15:52.594 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:15:52.922 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:17:26.595 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:17:26.610 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:17:26.610 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:17:41.177 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:17:41.587 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:17:41.947 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:17:45.415 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:17:45.858 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:17:46.186 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:17:46.467 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:17:46.803 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:19:54.685 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:19:54.694 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:19:54.694 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:20:08.555 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:20:08.963 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:20:09.291 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:20:13.713 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:20:14.184 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:20:14.512 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:20:14.777 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:20:15.112 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:23:19.486 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:23:19.490 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:23:19.490 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:23:34.073 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:23:34.530 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:23:34.858 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:23:38.811 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:23:39.210 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:23:39.585 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:23:39.882 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:23:40.218 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:26:25.662 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:26:25.674 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:26:25.674 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:26:40.843 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:26:41.244 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:26:41.556 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:26:45.572 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:26:45.973 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:26:46.285 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:26:46.551 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:26:46.879 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:27:49.121 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:27:49.131 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:27:49.131 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:28:03.605 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:28:04.013 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:28:04.341 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:28:08.372 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:28:08.775 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:28:09.119 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:28:09.416 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:28:09.907 [main] TestBase - To city entered
+[INFO ] 2020-01-15 19:28:10.188 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:32:48.530 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:32:48.550 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:32:48.550 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:33:12.808 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:33:13.512 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:33:13.918 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:33:18.045 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:33:18.535 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:33:18.863 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:33:19.223 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:33:19.978 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:34:34.295 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:34:34.313 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:34:34.313 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:34:48.522 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:34:48.926 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:34:49.238 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:34:53.129 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:34:53.552 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:34:53.849 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:34:54.145 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:34:54.870 [main] TestBase - To city entered
+[INFO ] 2020-01-15 19:34:55.198 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:36:12.165 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:36:12.174 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:36:12.174 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:36:24.050 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:36:24.489 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:36:24.817 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:36:29.395 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:36:29.794 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:36:30.137 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:36:30.450 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:36:30.964 [main] TestBase - To city entered
+[INFO ] 2020-01-15 19:36:31.276 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:37:33.993 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:37:34.013 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:37:34.013 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:37:50.354 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:37:50.752 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:37:51.080 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:37:51.440 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:37:51.809 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:37:52.138 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:37:52.450 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:40:21.205 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:40:21.218 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:40:21.218 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:40:43.292 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:40:43.907 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:40:44.751 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 19:40:45.117 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:41:34.730 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:41:34.736 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:41:34.736 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:41:48.412 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:41:48.820 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:41:49.179 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 19:41:49.507 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:44:23.574 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:44:23.590 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:44:23.590 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:44:34.549 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:44:34.968 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:44:35.359 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:44:35.703 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:44:36.068 [main] TestBase - from city entered
+[INFO ] 2020-01-15 19:44:36.365 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:44:36.678 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 19:57:16.090 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 19:57:16.109 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 19:57:16.109 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 19:58:08.733 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 19:58:10.930 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 19:58:15.462 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 19:58:15.868 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 19:58:21.745 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 19:58:22.206 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 20:19:27.339 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 20:19:27.349 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 20:19:27.349 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 20:19:43.148 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 20:19:43.664 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:19:47.993 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 20:19:48.415 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 20:19:52.901 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 20:19:53.198 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 20:28:22.610 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 20:28:22.662 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 20:28:22.662 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 20:28:44.549 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 20:28:45.045 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:28:45.389 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 20:28:45.748 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:28:46.225 [main] TestBase - from city entered
+[INFO ] 2020-01-15 20:28:46.553 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 20:28:46.928 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 20:44:17.679 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 20:44:17.694 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 20:44:17.694 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 20:44:31.237 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 20:44:31.892 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:44:32.220 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 20:44:32.642 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:44:32.996 [main] TestBase - from city entered
+[INFO ] 2020-01-15 20:44:33.324 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 20:44:33.746 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 20:45:18.464 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 20:45:18.477 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 20:45:18.477 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 20:45:33.204 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 20:45:34.380 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:45:34.700 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 20:45:35.653 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 20:45:36.068 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 20:45:36.381 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 20:53:37.542 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 20:53:37.552 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 20:53:37.552 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 20:53:53.080 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 20:53:54.237 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:53:54.543 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 20:53:55.527 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 20:53:55.819 [main] TestBase - from city entered
+[INFO ] 2020-01-15 20:53:56.100 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 20:53:56.491 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 22:33:17.294 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:33:17.306 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:33:17.306 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:33:45.327 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:33:47.884 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:33:49.377 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:33:49.758 [main] TestBase - from city entered
+[INFO ] 2020-01-15 22:33:50.149 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:33:50.852 [main] TestBase - To city entered
+[INFO ] 2020-01-15 22:33:51.214 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:33:51.683 [main] TestBase - To city entered
+[DEBUG] 2020-01-15 22:34:25.727 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:34:25.733 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:34:25.733 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:34:40.935 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:34:42.778 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:34:43.154 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 22:34:44.169 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:34:44.500 [main] TestBase - from city entered
+[INFO ] 2020-01-15 22:34:44.859 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:34:45.719 [main] TestBase - To city entered
+[INFO ] 2020-01-15 22:34:46.081 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:34:46.503 [main] TestBase - To city entered
+[DEBUG] 2020-01-15 22:35:18.954 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:35:18.969 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:35:18.969 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:35:43.297 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:35:48.473 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:35:49.944 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:35:50.296 [main] TestBase - from city entered
+[INFO ] 2020-01-15 22:35:50.718 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:35:51.921 [main] TestBase - To city entered
+[INFO ] 2020-01-15 22:35:52.243 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:35:52.712 [main] TestBase - To city entered
+[DEBUG] 2020-01-15 22:37:02.712 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:37:02.727 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:37:02.727 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:37:19.944 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:37:20.516 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:37:20.876 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 22:37:21.329 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 22:37:21.692 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:37:22.192 [main] TestBase - To city entered
+[INFO ] 2020-01-15 22:37:22.473 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 22:39:31.895 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:39:31.895 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:39:31.907 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:39:46.515 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:39:47.079 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:39:47.423 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 22:39:47.876 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 22:39:48.212 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:39:48.650 [main] TestBase - To city entered
+[INFO ] 2020-01-15 22:39:48.947 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 22:44:03.630 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:44:03.642 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:44:03.643 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:44:27.833 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:44:28.800 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:46:01.938 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:46:01.945 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:46:01.945 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:46:15.512 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:46:16.092 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:51:10.573 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:51:10.590 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:51:10.590 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:51:24.419 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:51:24.981 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:51:58.633 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:51:58.647 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:51:58.647 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:52:21.435 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:52:23.046 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:52:23.427 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 22:52:23.912 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 22:52:24.443 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:52:24.938 [main] TestBase - To city entered
+[INFO ] 2020-01-15 22:52:25.235 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 22:58:59.194 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 22:58:59.236 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 22:58:59.236 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 22:59:43.326 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 22:59:44.401 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 22:59:44.757 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 22:59:45.179 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 22:59:45.648 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:59:46.064 [main] TestBase - To city entered
+[INFO ] 2020-01-15 22:59:46.407 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 22:59:46.782 [main] TestBase - To city entered
+[DEBUG] 2020-01-15 23:23:52.961 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 23:23:52.976 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 23:23:52.976 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 23:24:13.982 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 23:24:14.974 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:24:15.303 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 23:24:15.763 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 23:24:16.295 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:24:16.701 [main] TestBase - To city entered
+[INFO ] 2020-01-15 23:24:17.054 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:24:17.445 [main] TestBase - To city entered
+[DEBUG] 2020-01-15 23:25:31.530 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 23:25:31.541 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 23:25:31.541 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 23:25:48.182 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 23:25:48.672 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:25:52.016 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 23:25:52.390 [main] TestBase - from city clicked
+[INFO ] 2020-01-15 23:25:55.781 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:25:56.166 [main] TestBase - To city entered
+[INFO ] 2020-01-15 23:25:56.525 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:25:56.884 [main] TestBase - To city entered
+[DEBUG] 2020-01-15 23:28:38.734 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 23:28:38.747 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 23:28:38.747 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 23:28:52.909 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 23:28:53.371 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:28:53.746 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 23:28:57.184 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:28:57.494 [main] TestBase - from city entered
+[INFO ] 2020-01-15 23:29:00.869 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:29:01.236 [main] TestBase - To city entered
+[INFO ] 2020-01-15 23:29:01.564 [main] TestBase - To city clicked
+[DEBUG] 2020-01-15 23:29:41.787 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 23:29:41.802 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 23:29:41.802 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 23:29:56.479 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 23:29:56.975 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:29:57.288 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 23:30:00.694 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:30:01.031 [main] TestBase - from city entered
+[INFO ] 2020-01-15 23:30:04.390 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:30:04.774 [main] TestBase - To city entered
+[INFO ] 2020-01-15 23:30:08.149 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:30:08.548 [main] TestBase - To city entered
+[DEBUG] 2020-01-15 23:30:38.170 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-15 23:30:38.189 [main] TestBase - OR file loaded
+[INFO ] 2020-01-15 23:30:38.189 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-15 23:30:51.200 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-15 23:30:51.956 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:30:52.284 [main] TestBase - from city entered
+[DEBUG] 2020-01-15 23:30:55.715 [main] TestBase - from city clicked
+[DEBUG] 2020-01-15 23:30:56.052 [main] TestBase - from city entered
+[INFO ] 2020-01-15 23:30:59.443 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:30:59.797 [main] TestBase - To city entered
+[INFO ] 2020-01-15 23:31:03.172 [main] TestBase - To city clicked
+[INFO ] 2020-01-15 23:31:03.551 [main] TestBase - To city entered
+[DEBUG] 2020-01-16 00:06:44.227 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-16 00:06:44.331 [main] TestBase - OR file loaded
+[INFO ] 2020-01-16 00:06:44.331 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-16 00:07:38.013 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-16 00:07:40.027 [main] TestBase - from city clicked
+[DEBUG] 2020-01-16 00:07:40.455 [main] TestBase - from city entered
+[DEBUG] 2020-01-16 00:07:40.845 [main] TestBase - from city clicked
+[INFO ] 2020-01-16 00:07:41.345 [main] TestBase - To city clicked
+[INFO ] 2020-01-16 00:07:41.760 [main] TestBase - To city entered
+[INFO ] 2020-01-16 00:07:45.182 [main] TestBase - To city clicked
+[INFO ] 2020-01-16 00:07:45.562 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 12:41:21.311 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 12:41:21.429 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 12:41:21.429 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 12:42:24.283 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 12:42:27.151 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 12:42:28.178 [main] TestBase - from city entered
+[DEBUG] 2020-01-17 12:42:28.799 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 12:42:29.518 [main] TestBase - from city entered
+[INFO ] 2020-01-17 12:42:30.290 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 12:42:31.016 [main] TestBase - To city entered
+[INFO ] 2020-01-17 12:42:34.363 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 12:42:34.776 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 12:46:40.514 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 12:46:40.514 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 12:46:40.514 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 12:47:02.180 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 12:47:02.950 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 12:47:03.458 [main] TestBase - from city entered
+[DEBUG] 2020-01-17 12:47:03.943 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 12:47:04.561 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 12:47:05.031 [main] TestBase - To city entered
+[INFO ] 2020-01-17 12:47:08.591 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 12:47:09.108 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 12:49:41.288 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 12:49:41.288 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 12:49:41.288 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 12:49:56.556 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 12:49:57.107 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 12:49:57.451 [main] TestBase - from city entered
+[DEBUG] 2020-01-17 12:49:57.841 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 12:49:58.283 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 12:49:58.658 [main] TestBase - To city entered
+[INFO ] 2020-01-17 12:50:02.080 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 12:50:02.497 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 13:21:47.053 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:21:47.069 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:21:47.069 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:22:18.005 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 13:22:19.014 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 13:22:19.405 [main] TestBase - from city entered
+[DEBUG] 2020-01-17 13:22:19.955 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 13:22:20.486 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:22:21.229 [main] TestBase - To city entered
+[INFO ] 2020-01-17 13:22:24.729 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:22:25.229 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 13:24:36.498 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:24:36.513 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:24:36.513 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:24:52.060 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 13:24:52.667 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 13:24:52.995 [main] TestBase - from city entered
+[DEBUG] 2020-01-17 13:24:53.338 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 13:24:53.784 [main] TestBase - from city entered
+[INFO ] 2020-01-17 13:24:54.096 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:24:54.518 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:24:54.887 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 13:28:16.619 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:28:16.619 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:28:16.619 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:28:32.839 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 13:28:33.453 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 13:28:33.875 [main] TestBase - from city entered
+[DEBUG] 2020-01-17 13:28:34.343 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 13:28:34.764 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:28:35.202 [main] TestBase - To city entered
+[INFO ] 2020-01-17 13:28:38.664 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:28:39.137 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 13:29:56.291 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:29:56.307 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:29:56.307 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:30:12.913 [main] TestBase - testsite url loaded
+[INFO ] 2020-01-17 13:30:14.217 [main] TestBase - To city clicked
+[DEBUG] 2020-01-17 13:31:09.727 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:31:09.727 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:31:09.727 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:31:26.102 [main] TestBase - testsite url loaded
+[INFO ] 2020-01-17 13:31:26.811 [main] TestBase - To city clicked
+[DEBUG] 2020-01-17 13:32:48.815 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:32:48.815 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:32:48.815 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:33:06.055 [main] TestBase - testsite url loaded
+[INFO ] 2020-01-17 13:33:06.714 [main] TestBase - To city clicked
+[DEBUG] 2020-01-17 13:45:47.098 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:45:47.098 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:45:47.098 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:46:05.057 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 13:46:05.856 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 13:46:07.387 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 13:46:08.622 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:46:08.973 [main] TestBase - To city entered
+[INFO ] 2020-01-17 13:46:12.348 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:46:12.701 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 13:49:17.847 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:49:17.863 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:49:17.863 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:49:36.456 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 13:49:36.981 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 13:49:38.762 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 13:49:39.832 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:49:40.201 [main] TestBase - To city entered
+[INFO ] 2020-01-17 13:49:43.623 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:49:43.992 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 13:51:33.125 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 13:51:33.125 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 13:51:33.125 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 13:51:50.135 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 13:51:50.635 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 13:51:52.026 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 13:51:53.217 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:51:53.584 [main] TestBase - To city entered
+[INFO ] 2020-01-17 13:51:56.944 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 13:51:57.297 [main] TestBase - To city entered
+[DEBUG] 2020-01-17 14:07:59.540 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-17 14:07:59.555 [main] TestBase - OR file loaded
+[INFO ] 2020-01-17 14:07:59.555 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-17 14:08:28.622 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-17 14:08:29.744 [main] TestBase - from city clicked
+[DEBUG] 2020-01-17 14:08:31.302 [main] TestBase - from city clicked
+[INFO ] 2020-01-17 14:08:32.552 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 14:08:32.987 [main] TestBase - To city entered
+[INFO ] 2020-01-17 14:08:36.472 [main] TestBase - To city clicked
+[INFO ] 2020-01-17 14:08:36.847 [main] TestBase - To city entered
+[DEBUG] 2020-01-18 15:25:17.736 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-18 15:25:17.751 [main] TestBase - OR file loaded
+[INFO ] 2020-01-18 15:25:17.751 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-18 15:26:06.960 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-18 15:28:43.373 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-18 15:28:43.388 [main] TestBase - OR file loaded
+[INFO ] 2020-01-18 15:28:43.388 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-18 15:29:13.164 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-18 15:29:16.939 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 15:29:18.731 [main] TestBase - from city clicked
+[INFO ] 2020-01-18 15:29:19.099 [main] TestBase - To city clicked
+[DEBUG] 2020-01-18 15:36:20.192 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-18 15:36:20.219 [main] TestBase - OR file loaded
+[INFO ] 2020-01-18 15:36:20.219 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-18 15:36:43.874 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-18 15:36:46.849 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 15:36:47.472 [main] TestBase - from city entered
+[DEBUG] 2020-01-18 15:36:49.275 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 15:36:50.620 [main] TestBase - from city entered
+[INFO ] 2020-01-18 15:36:51.288 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 15:36:52.038 [main] TestBase - To city entered
+[DEBUG] 2020-01-18 15:36:54.783 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-18 15:36:54.799 [main] TestBase - OR file loaded
+[INFO ] 2020-01-18 15:36:54.799 [main] TestBase - info:OR file loaded
+[INFO ] 2020-01-18 15:36:55.416 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 15:36:55.969 [main] TestBase - To city entered
+[DEBUG] 2020-01-18 15:37:22.460 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-18 15:37:23.605 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 15:37:24.525 [main] TestBase - from city entered
+[DEBUG] 2020-01-18 15:37:25.447 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 15:37:25.896 [main] TestBase - from city entered
+[INFO ] 2020-01-18 15:37:26.537 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 15:37:27.174 [main] TestBase - To city entered
+[INFO ] 2020-01-18 15:37:30.627 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 15:37:31.159 [main] TestBase - To city entered
+[DEBUG] 2020-01-18 15:38:14.606 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-18 15:38:14.606 [main] TestBase - OR file loaded
+[INFO ] 2020-01-18 15:38:14.606 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-18 15:38:30.078 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-18 15:38:30.729 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 15:38:31.135 [main] TestBase - from city entered
+[DEBUG] 2020-01-18 15:38:32.047 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 15:38:32.390 [main] TestBase - from city entered
+[INFO ] 2020-01-18 15:38:32.703 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 15:38:33.078 [main] TestBase - To city entered
+[INFO ] 2020-01-18 15:38:36.484 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 15:38:36.852 [main] TestBase - To city entered
+[DEBUG] 2020-01-18 22:18:51.487 [main] TestBase - Config file loaded
+[DEBUG] 2020-01-18 22:18:51.521 [main] TestBase - OR file loaded
+[INFO ] 2020-01-18 22:18:51.521 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-01-18 22:19:27.489 [main] TestBase - testsite url loaded
+[DEBUG] 2020-01-18 22:19:29.232 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 22:19:29.551 [main] TestBase - from city entered
+[DEBUG] 2020-01-18 22:19:30.473 [main] TestBase - from city clicked
+[DEBUG] 2020-01-18 22:19:30.809 [main] TestBase - from city entered
+[INFO ] 2020-01-18 22:19:31.168 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 22:19:31.590 [main] TestBase - To city entered
+[INFO ] 2020-01-18 22:19:35.058 [main] TestBase - To city clicked
+[INFO ] 2020-01-18 22:19:35.474 [main] TestBase - To city entered
+[DEBUG] 2020-02-08 20:32:18.705 [main] TestBase - Config file loaded
+[DEBUG] 2020-02-08 20:32:18.788 [main] TestBase - OR file loaded
+[INFO ] 2020-02-08 20:32:18.789 [main] TestBase - info:OR file loaded
+[DEBUG] 2020-02-08 20:32:55.159 [main] TestBase - testsite url loaded
+[DEBUG] 2020-02-08 20:32:56.310 [main] TestBase - from city clicked
+[DEBUG] 2020-02-08 20:32:56.717 [main] TestBase - from city entered
+[DEBUG] 2020-02-08 20:32:57.650 [main] TestBase - from city clicked
+[DEBUG] 2020-02-08 20:32:57.975 [main] TestBase - from city entered
+[INFO ] 2020-02-08 20:32:58.291 [main] TestBase - To city clicked
+[INFO ] 2020-02-08 20:32:58.713 [main] TestBase - To city entered
+[INFO ] 2020-02-08 20:33:02.053 [main] TestBase - To city clicked
+[INFO ] 2020-02-08 20:33:02.368 [main] TestBase - To city entered
