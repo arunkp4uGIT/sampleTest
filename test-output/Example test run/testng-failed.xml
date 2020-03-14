@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Example test run]">
+  <test thread-count="5" name="Simple Test(failed)">
+    <classes>
+      <class name="com.projArun.testCases.LoginTest">
+        <methods>
+          <include name="enterfromCity" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.projArun.testCases.LoginTest -->
+    </classes>
+  </test> <!-- Simple Test(failed) -->
+</suite> <!-- Failed suite [Example test run] -->

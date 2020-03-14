@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="46792" started-at="2020-02-08T15:02:18Z" finished-at="2020-02-08T15:03:05Z">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="46792" started-at="2020-02-08T15:02:18Z" finished-at="2020-02-08T15:03:05Z">
+      <class name="com.projArun.testCases.LoginTest">
+        <test-method status="PASS" signature="enterfromCity(java.lang.String)[pri:0, instance:com.projArun.testCases.LoginTest@3c407114]" name="enterfromCity" duration-ms="38097" started-at="2020-02-08T15:02:18Z" data-provider="fromCityData" finished-at="2020-02-08T15:02:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ahmedabad (AMD)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterfromCity -->
+        <test-method status="PASS" signature="enterfromCity(java.lang.String)[pri:0, instance:com.projArun.testCases.LoginTest@3c407114]" name="enterfromCity" duration-ms="1256" started-at="2020-02-08T15:02:56Z" data-provider="fromCityData" finished-at="2020-02-08T15:02:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amritsar (ATQ)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterfromCity -->
+        <test-method status="PASS" signature="entertoCity(java.lang.String)[pri:0, instance:com.projArun.testCases.LoginTest@3c407114]" name="entertoCity" duration-ms="3749" started-at="2020-02-08T15:02:57Z" data-provider="toCityData" finished-at="2020-02-08T15:03:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dehradun (DED)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entertoCity -->
+        <test-method status="PASS" signature="entertoCity(java.lang.String)[pri:0, instance:com.projArun.testCases.LoginTest@3c407114]" name="entertoCity" duration-ms="3643" started-at="2020-02-08T15:03:01Z" data-provider="toCityData" finished-at="2020-02-08T15:03:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hyderabad (HYD)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entertoCity -->
+      </class> <!-- com.projArun.testCases.LoginTest -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>
