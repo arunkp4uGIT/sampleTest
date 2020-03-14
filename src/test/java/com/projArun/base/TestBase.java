@@ -25,8 +25,7 @@ public class TestBase {
 	public static Properties OR = new Properties();
 	public static FileInputStream fis;
 	public static Logger log = LogManager.getLogger(TestBase.class);
-	public  Wait<WebDriver> wait;
-	
+	public  Wait<WebDriver> wait;	
 	// Setup method
 	public void setUp() throws IOException {
 		if (driver == null) {
@@ -34,8 +33,7 @@ public class TestBase {
 			fis = new FileInputStream(
 					System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\config.properties");
 			config.load(fis);
-			log.debug("Config file loaded");
-			
+			log.debug("Config file loaded");			
 			// Object properties file load
 			fis = new FileInputStream(
 					System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\OR.properties");
